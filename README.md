@@ -16,22 +16,22 @@ Untuk menggunakan extensi ini anda harus memenuhi ketentuan dibawah ini:
 ### Buat
 Membuat kode dari komentar atau potongan kode maupun gabungan keduanya. dibuat secara otomatis dan mengikuti riwayat pengkodean sebelumnya. memakai logika umum atau campuran (standar atau kreatif) yang bebas hak cipta.
 
-![](https://github.com/kucingcoder/pake-gpt-vscode/blob/main/image/buat.gif)
+![](image/buat.gif)
 
 
 ### Perbaiki
 Memperbaiki kode yang memiliki kesalahan baik berupa error dalam kode. dapat digunakan jika anda tidak mengetahui aturan struktur kode yang error dan keadaan masalah lainnya yang berkaitan dengan penulisan kode.
 
-![](https://github.com/kucingcoder/pake-gpt-vscode/blob/main/image/perbaiki.gif)
+![](image/perbaiki.gif)
 
 
 ### Analisa
 Potongan kode yang diseleksi akan dianalisa lalu hasilnya akan ditampilkan di panel samping yang berisi mengenai informasi terkait error dalam kode maupun runtime, bug, performa, serta kemanan. Berupa teks yang hanya di baca dan bersifat saran bukan absolut.
 
-![](https://github.com/kucingcoder/pake-gpt-vscode/blob/main/image/analisa.gif)
+![](image/analisa.gif)
 
 
 ### Terangkan
 Membuat teks menjelaskan atau menggambarkan tujuan kode sesuai dengan potongan kode yang diseleksi. Penjelasan singkat yang tidak berbelit belit dan cocok untuk programer yang malas membaca. Ditampilkan dalam panel disamping kode.
 
-![](https://github.com/kucingcoder/pake-gpt-vscode/blob/main/image/terangkan.gif)
+![](image/terangkan.gif)
