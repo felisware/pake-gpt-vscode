@@ -1,16 +1,7 @@
 # Pake GPT untuk Visual Studio Code
 Extensi ini adalah alat bantu untuk mempercepat dalam pengembangan sebuah perangkat lunak. Mendukung seluruh bahasa pemograman dan scripting yang diakui secara internasional (umum). Memiliki fitur - fitur yang sangat dibutuhkan oleh pengembang dan dapat digunakan secara mudah dengan jaminan ketersediaan, ketepatan, dan kecepatan.
 
-## Jaminan
-Kami memiliki jaminan toleransi yang profesional untuk mendukung kebutuhan anda meliputi:
- * Ketersediaan 24 jam / selalu online
- * Cepat dan Cukpu akurat (toleransi waktu tunggu 20 detik untuk standar dan 125 detik untuk anomali)
- * Kode yang berkesinambungan dengan sebelumnya
-
-## Syarat
-Untuk menggunakan extensi ini anda harus memenuhi ketentuan dibawah ini:
- * Memiliki akun di website [Pake GPT](https://pakegpt.com "Layanan integrasi AI dengan perangkat lunak umum").
- * Memiliki paket level Developer
+##### Extension Eksklusif Untuk Pengguna pakegpt.com (kalo gak punya akun tinggal daftar)
 
 # Fitur
 ### Buat
@@ -35,3 +26,16 @@ Potongan kode yang diseleksi akan dianalisa lalu hasilnya akan ditampilkan di pa
 Membuat teks menjelaskan atau menggambarkan tujuan kode sesuai dengan potongan kode yang diseleksi. Penjelasan singkat yang tidak berbelit belit dan cocok untuk programer yang malas membaca. Ditampilkan dalam panel disamping kode.
 
 ![](image/terangkan.gif)
+
+## Jaminan
+Kami memiliki jaminan toleransi yang profesional untuk mendukung kebutuhan anda meliputi:
+ * Ketersediaan 24 jam / selalu online
+ * Cepat dan Cukup akurat
+ * Kode yang berkesinambungan dengan sebelumnya
+
+## Syarat
+Untuk menggunakan extensi ini anda harus memenuhi ketentuan dibawah ini:
+ * Memiliki akun di website [Pake GPT](https://pakegpt.com "Layanan integrasi AI dengan perangkat lunak umum").
+ * Memiliki paket level Developer
+ * File harus sudah memiliki nama (bukan Untitled atau belum di save)
+ * Menyeleksi/Memblock komentar atau potongan kode
